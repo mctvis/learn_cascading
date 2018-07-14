@@ -1,0 +1,6 @@
+id|name|amount
+1|Avash|20000
+2|Ayusha|30000
+3|Sagun|25000
+1|Ram|33000
+1|Sita|25000
